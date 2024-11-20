@@ -1,4 +1,4 @@
-package Cira;
+package cira;
 
 public class DescripcionCira {
 
