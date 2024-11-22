@@ -3,7 +3,11 @@ package nomada;
 public class DescripcionNomada {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Descripcion Fisica:\r\n"
+				+ "\r\n"
+				+ "Historia:\r\n"
+				+ "\r\n"
+				+ "Frase Tipica: Joven pastora (para referirse a Cira)");
 
 	}
 
