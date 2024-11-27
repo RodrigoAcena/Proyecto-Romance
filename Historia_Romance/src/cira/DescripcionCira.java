@@ -26,6 +26,15 @@ public class DescripcionCira {
 		System.out.println("En resumen, Cira es un personaje que representa los valores de la valentía, "
 				+ "la justicia y la bondad. Su transformación de una joven pastora a una líder que inspira a su pueblo "
 				+ "la convierte en un personaje memorable y positivo.");
+		
+		System.out.println("Características principales de Cira:\r\n"
+				+ "\r\n"
+				+ "Valiente: No teme enfrentar desafíos y luchar por lo que cree justo.\r\n"
+				+ "Decidida: Tiene un fuerte sentido de propósito y no se deja intimidar fácilmente.\r\n"
+				+ "Compasiva: Se preocupa por el bienestar de los demás y es generosa.\r\n"
+				+ "Altruista: Prefiere el bien común antes que su propio beneficio.\r\n"
+				+ "Curiosa: Anhela el conocimiento y la aventura.\r\n"
+				+ "Líder: Inspira a otros y los une en torno a una causa común.");
 	}
 
 }
