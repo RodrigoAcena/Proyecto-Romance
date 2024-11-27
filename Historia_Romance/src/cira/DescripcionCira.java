@@ -18,6 +18,14 @@ public class DescripcionCira {
 				+ "No teme enfrentar desafíos y se muestra dispuesta a luchar por lo que cree justo. "
 				+ "Su encuentro con el nomada y la obtención del tesoro la convierten en una figura central "
 				+ "en la lucha contra la codicia de Umbra.");
+		
+		System.out.println("Cira también es una persona compasiva y altruista. "
+				+ "A pesar de tener la oportunidad de quedarse con el tesoro para sí misma, "
+				+ "decide compartirlo con su pueblo, demostrando su generosidad y su sentido de la comunidad.");
+		
+		System.out.println("En resumen, Cira es un personaje que representa los valores de la valentía, "
+				+ "la justicia y la bondad. Su transformación de una joven pastora a una líder que inspira a su pueblo "
+				+ "la convierte en un personaje memorable y positivo.");
 	}
 
 }
